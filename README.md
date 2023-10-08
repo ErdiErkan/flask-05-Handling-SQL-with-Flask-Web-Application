@@ -130,7 +130,7 @@ https://flask-mysqldb.readthedocs.io/en/latest/
 
 - Install `flask_mysql`.
 
-- ıf its not working with error code "cannot import name '_request_ctx_stack' from 'flask'" 
+- if its not working with error code "cannot import name '_request_ctx_stack' from 'flask'" 
 
   `pip install Flask==2.3.3`
 
